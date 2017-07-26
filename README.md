@@ -1,0 +1,2 @@
+# SHR
+Simple Hotel Repository
